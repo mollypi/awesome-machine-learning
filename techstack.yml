@@ -1,7 +1,8 @@
 repo_name: mollypi/awesome-machine-learning
 report_id: e1798dd5476c247904939a66f69dfb41
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:30:31+00:00'
+timestamp: '2024-01-05T08:41:45+00:00'
 requested_by: josephmisiti
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mollypi/awesome-machine-learning
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/awesome-machine-learning
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -34,30 +37,33 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mollypi/awesome-machine-learning/blob/master/scripts/requirements.txt
   detection_source: scripts/requirements.txt
   last_updated_by: Sumit Khanna
   last_updated_on: 2015-02-07 20:05:17.000000000 Z
 - name: pyquery
   description: A jquery-like library for python
-  package_url: https://pypi.org/pyquery
+  package_url: https://pypi.org/project/pyquery
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20111/default_07c33e3fe9188a5efef46b09a8d6468a52dce7cb.png
+  detection_source_url: https://github.com/mollypi/awesome-machine-learning/blob/master/scripts/requirements.txt
   detection_source: scripts/requirements.txt
   last_updated_by: GarvTambi
   last_updated_on: 2019-08-10 13:24:54.000000000 Z
 - name: urllib3
   description: HTTP library with thread-safe connection pooling
-  package_url: https://pypi.org/urllib3
+  package_url: https://pypi.org/project/urllib3
   license: MIT
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19842/default_4604ff5dcb7f4d9c7b3833591c2142493951b19c.png
+  detection_source_url: https://github.com/mollypi/awesome-machine-learning/blob/master/scripts/requirements.txt
   detection_source: scripts/requirements.txt
   last_updated_by: GarvTambi
   last_updated_on: 2019-08-10 13:24:54.000000000 Z
