@@ -1,26 +1,30 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/awesome-machine-learning is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/awesome-machine-learning is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/awesome-machine-learning](https://github.com/mollypi/awesome-machine-learning)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|11/15/23 <br/>Report generated|
+|5<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -65,10 +69,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[pyquery](https://pypi.org/pyquery)|N/A|08/10/19|GarvTambi |BSD-3-Clause|N/A|
-|[urllib3](https://pypi.org/urllib3)|N/A|08/10/19|GarvTambi |MIT|N/A|
+|[pyquery](https://pypi.org/project/pyquery)|N/A|08/10/19|GarvTambi |BSD-3-Clause|N/A|
+|[urllib3](https://pypi.org/project/urllib3)|N/A|08/10/19|GarvTambi |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
